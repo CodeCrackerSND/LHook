@@ -1,0 +1,6 @@
+Local hook C++:
+http://codefromthe70s.org/mhook22.aspx
+
+Global hook:
+https://www.codeproject.com/Articles/2082/API-hooking-revealed
+
